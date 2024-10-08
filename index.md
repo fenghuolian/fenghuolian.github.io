@@ -1,53 +1,15 @@
-## Intro
+# 魏县第五小学
+### 学校先后获得一师一优课、一课一名师活动“优秀组织奖”，综合考核优秀单位，教学成绩优秀单位等多项荣誉称号。
 <img src="/picture/图片2.png" alt="Image text" style="zoom:50%;" />
 <img src="/picture/图片3.png" alt="Image text" style="zoom:50%;" />
 <img src="/picture/图片4.png" alt="Image text" style="zoom:50%;" />
 
-## Educational Background
-### Master’s Degree, Beijing Institute of Technology
-- **Postgraduate recommendation** 
-- **Research interests:** Large Language Model, Multimodal learning & Medical Image Processing **(Beijing Key Lab of Intelligent Information Technology)**
-- **Major:** Computer Science and Technology
-- **Duration:** September 2023 - Present
+### 学校建有微机室、录播教室，多功能教室，等信息技术支持下的学习、教研空间，为学校师生提供更加便捷、舒适的工作、学习环境。
+<img src="/picture/图片5.png" alt="Image text" style="zoom:50%;" />
+<img src="/picture/图片6.png" alt="Image text" style="zoom:50%;" />
+<img src="/picture/图片7.png" alt="Image text" style="zoom:50%;" />
 
-### Bachelor’s Degree, Beijing Institute of Technology
-- **Major:** Computer Science and Technology
-- **Duration:** September 2019 - June 2023
-- **MIT Online Project:** Computer Vision, A level
-  
-## Selected Pub:
-- Mitigating Data Imbalance in Medical Report Generation through Visual Data Resampling. Haoquan Chen, Bin Yan and Mingtao Pei, accepted by the 2024 International Conference on Intelligent Computing (CCF-C, Oral, **Oral Session Chair**).
-- Article about Enhancing Abnormal Semantic for Medical Report Generation. Submitted to IEEE International Conference on Bioinformatics & Biomedicine, (CCF-B, under review)
-- Article about Multi-modal Encoding and Alignment for Medical Report Generation. Submitted to Annual AAAI Conference on Artificial Intelligence, (CCF-A, under review)
+<img src="/picture/图片8.png" alt="Image text" style="zoom:50%;" />
+<img src="/picture/图片9.png" alt="Image text" style="zoom:50%;" />
+<img src="/picture/图片10.png" alt="Image text" style="zoom:50%;" />
 
-## Project Experience
-### Instant Messaging Software
-- **Description:** Build instant chat software similar to QQ, support friend relationship, group chat, file transfer, etc.
-- **Division of labor:** Coordinate personnel cooperation and project progress, and participate in the realization of some functions
-- **Technical stack:** Tech stack includes Socket (C language), Linux system programming
-- **Repository:** [Git Repo](https://gitee.com/quanquaqu/team-of-three)
-
-### Fast Reception Robot Based on Deep Learning
-- **Project description:** In cooperation with Beijing Jishuitan Hospital (Beijing Nature Foundation -7222086), to realize an admission system integrating identity recognition, language conversion and data interaction
-- **Division of labor:** Coordinate personnel cooperation and project progress, write the code of the basic framework
-- **Technical stack:** Tech stack includes Pytorch with the framework using ResNet+Transformer
-- **Outcome:** In the test scenario, it can be put into use in real time, and the identity accuracy rate is above 95%
-
-### Intelligent agricultural robotssikao
-- **Project description::** School-enterprise cooperation for agricultural robots, which can locate, classify, and laser crops
-- **Division of labor:** Develop the framework code, implement post-processing for detection results, matching, and metric computation functions. Conduct hyperparameter tuning and design a multi-model voting mechanism.
-- **Technical stack:** Tech stack includes OpenCV and Pytorch, with the detection framework using YOLO
-- **Outcome:** Reduce false negative rate (FNR) by 15% and false positive rate (FPR) by 30% in testing scenarios
-
-## Skills
-- **Program Languages:** **Python** (Numpy/OpenCV/Pytorch), **C/C++** (Object-oriented programming/OpenMP), **SQL**, **Java**
-- **Tools and Technologies:** Linux Programming, Git, Latex/Markdown, MS Office, Google Workspace
-- **Tech blog:** [CSDN-QuanHaHQuan](https://blog.csdn.net/c_h_q_)
-- **Knowledge:**
-  * Familiar with classical machine learning models (SVM/RF/XGBoost, etc.), mainstream CV/NLP models (ViT/BERT/CLIP, etc.)
-  * Large language models (LLM) and fine-tuning (GPT/llama/RAG/LoRa, etc.)
-  * Understanding of cloud platforms (Colab/Autodl/Azure), containers (Docker/Kubernetes), and Spark/Hadoop
-
-## Contact
-- **Email:** haoquan.chen724@gmail.com
-- **WeChat:** QuanHaHQuan
